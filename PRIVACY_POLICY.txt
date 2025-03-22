@@ -1,45 +1,54 @@
-Privacy Policy for [Bomb Buster]
+Privacy Policy for Bomb Buster
 
-Effective Date: [13/03/2025]
+Effective Date: March 22, 2024  (Always use the CURRENT date)
 
-Thank you for playing [Your Game Name]! We understand the importance of privacy, especially for players of all ages. This policy explains how we handle your information when you use our game.
+Thank you for playing Bomb Buster! We understand the importance of privacy, especially for players of all ages. This policy explains how information is handled when you use our game.
+
+**Target Audience**
+
+Bomb Buster is designed for and targeted to a general audience, including families and children of all ages.
 
 **Information We Collect**
 
-[Bomb Buster] does not collect any personal information from you. This includes, but is not limited to:
+Bomb Buster is a completely offline, single-player game. We do *not* collect any *personally identifiable information* (PII) from our users. This includes, but is not limited to:
 
-* Names
-* Email addresses
-* Phone numbers
-* Location data
-* Device information
-* Usage data
-* Any form of user identifiable data.
+*   Names
+*   Email addresses
+*   Phone numbers
+*   Location data
 
-Because the game is entirely offline and does not contain any online features, advertisements, in-app purchases, or tracking mechanisms, no data is transmitted or stored by us.
+However, like all Android applications, Bomb Buster interacts with the Android operating system. While we do not collect it directly, the Android operating system itself *may* collect certain non-personally identifiable information for operational purposes (e.g., crash logs, basic device information for compatibility). This is handled by Google and is subject to Google's privacy policies.
+
+**Advertising ID**
+
+Bomb Buster does *not* display any advertisements and *does not* use the Android Advertising Identifier (AAID) for any advertising purposes. However, the AAID may technically exist as part of the standard Android environment, but we make no use of it, and it is not linked to any personal information.
 
 **How We Use Information**
 
-As we do not collect any information, we do not use any information.
+Because we do not collect any personally identifiable information, we do not use any such information for any purpose. Any non-personally identifiable information potentially collected by the Android operating system is used by Google as described in Google's privacy policies.
 
 **Information Sharing**
 
-Because no user data is collected, we do not share any information with third parties.
+We do not collect or share any personal information with any third parties.
+
+**Data Security**
+
+We take reasonable steps to protect the limited, non-personally identifiable information used by the game from unauthorized access, use, or disclosure. This includes storing game progress locally on your device using standard Android mechanisms (`SharedPreferences`).
 
 **Children's Privacy**
 
-[Bomb Buster] is designed to be enjoyed by players of all ages. We do not knowingly collect any personal information from children.
+Bomb Buster is designed to comply with all applicable privacy laws, including the Children's Online Privacy Protection Act (COPPA) in the United States and the General Data Protection Regulation (GDPR) in Europe. We do not knowingly collect any personal information from children of any age.
 
 **Changes to This Privacy Policy**
 
-We may update this privacy policy from time to time. As there is no data collected, these changes would be for clarity purposes only. We will post any changes on this page.
+We may update this privacy policy from time to time. We will post any changes on this page, and we encourage you to review our policy periodically. If we make any changes that materially affect how we handle information, we will provide a more prominent notice (for example, within the game itself, if feasible).
 
 **Contact Us**
 
 If you have any questions about this privacy policy, please contact us at:
 
-[adam.aleixos@googlemail.com]
+adam.aleixos@googlemail.com
 
 **Simple Summary:**
 
-This game collects absolutely no data. It is a completely offline, single-player game. Enjoy!
+This game collects no personally identifiable information. It is a completely offline, single-player game.  Game progress is stored locally on your device.
